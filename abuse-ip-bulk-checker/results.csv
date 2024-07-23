@@ -1,0 +1,5 @@
+ipAddress,abuseConfidenceScore,isTor,countryCode,isp,totalReports
+192.168.10.1,0,False,,Private IP Address LAN,0
+34.65.3.1,0,False,,Google LLC,0
+90.43.23.1,0,False,,Orange S.A.,0
+98.4.2.6,0,False,,Charter Communications Inc,0
