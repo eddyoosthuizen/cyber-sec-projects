@@ -1,0 +1,1 @@
+- Program that goes hrough important Linux artifacts, passes it to an LLM and gives a summary of malicious behaviour/timeline/what happened
